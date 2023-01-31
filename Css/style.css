@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #E5E0FF;
+}
+
+h1{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+}
+
+.top-cont {
+    
+    position: relative;
+    padding-top: 150px;
+}
+
+.mid-cont {
+    width: 100%;
+}
+
+.bott-cont {
+    width: 100%;
+}
+
+.
+
+.bott-cld {
+    position: absolute;
+    right: 400px;
+    bottom: 300px;
+}
+
+.top-cld {
+    position: absolute;
+    left: 330px;
+    top: 100px;
+}
